@@ -37,3 +37,10 @@
 1. Клонируйте общий репозиторий:
    ```bash
    git clone https://github.com/DanilD12/java-academic-practice.git
+2. Откройте нужную папку проекта (например, 02-function-tabulation-io) в вашей среде разработки (NetBeans, IntelliJ IDEA, Eclipse).
+3. При наличии папки lib внутри проекта — подключите содержащиеся в ней .jar библиотеки к вашей IDE.
+4. Найдите класс, содержащий метод public static void main(String[] args), и запустите его.
+
+***
+
+Сохраняйте файл, загружайте эту общую папку на GitHub в репозиторий `java-academic-practice`, и у вас в профиле появится шикарный каталог ваших работ на Java!
